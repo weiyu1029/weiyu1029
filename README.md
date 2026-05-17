@@ -51,7 +51,7 @@ Interactive Streamlit dashboard that simulates:
 - Enabled scenario-based decision-making
 - Built optimization workflows using Python & PuLP
 
-🔧 **Tools:** Python, Streamlit, Plotly, Pandas, Optimization Modeling
+**Tools:** Python, Streamlit, Plotly, Pandas, Optimization Modeling
 
 ---
 
@@ -63,7 +63,7 @@ Analyzed airline delay patterns and customer satisfaction drivers using Python.
 - Built visual analytics dashboards
 - Performed exploratory data analysis & feature engineering
 
-🔧 **Tools:** Python, Pandas, Matplotlib, Data Visualization
+**Tools:** Python, Pandas, Matplotlib, Data Visualization
 
 ---
 
@@ -75,7 +75,7 @@ Developed recommendation and forecasting models using insurance customer behavio
 - Forecasting customer engagement trends
 - Large-scale data preprocessing and analysis
 
-🔧 **Tools:** Python, SQL, Machine Learning, Power BI
+**Tools:** Python, SQL, Machine Learning, Power BI
 
 ---
 
