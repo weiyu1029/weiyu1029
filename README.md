@@ -46,5 +46,5 @@ Developed machine learning models for recommendation and forecasting using large
 
 # Contact
 
-📫 LinkedIn: https://www.linkedin.com/in/wei-yu-chen-abb076132/
-📧 Email: wy.alice.chen@gmail.com
+LinkedIn: https://www.linkedin.com/in/wei-yu-chen-abb076132/
+Email: wy.alice.chen@gmail.com
