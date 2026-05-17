@@ -104,7 +104,7 @@ Email: wy.alice.chen@gmail.com
 
 <div align="center">
 
-Always exploring the intersection of data, strategy, and technology ✨
+Always exploring the intersection of data, strategy, and technology
 
 </div>
 
