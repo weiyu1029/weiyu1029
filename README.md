@@ -97,7 +97,7 @@ Developed recommendation and forecasting models using insurance customer behavio
 
 # Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/wei-yu-chen-abb076132/
+LinkedIn: [https://www.linkedin.com/in/wei-yu-chen-abb076132/](https://www.linkedin.com/in/alice-chen-abb076132/)
 Email: wy.alice.chen@gmail.com
 
 ---
